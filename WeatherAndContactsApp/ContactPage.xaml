@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"  
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:constants="clr-namespace:WeatherAndContactsApp;assembly=WeatherAndContactsApp"
+             x:Class="WeatherAndContactsApp.ContactPage"  
+     Padding="0, 20, 0, 0">
+    <Grid>
+        <StackLayout x:Name="stackList">
+            <Label Text="Login" FontSize="50" ></Label>
+            <Entry x:Name="nameTxt" Placeholder="Name"></Entry>
+            <Entry x:Name="phoneTxt" Placeholder="Phonenumber"></Entry>
+            <Button Text="Add" Clicked="Click_Add" ></Button>
+        </StackLayout>
+    </Grid>
+</ContentPage>  

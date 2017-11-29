@@ -1,0 +1,2 @@
+C:\Users\Jessica\Desktop\WeatherContactsApp\WeatherAndContactsApp\WeatherAndContactsApp\WeatherAndContactsApp.csproj;neutral
+C:\Users\Jessica\Desktop\WeatherContactsApp\WeatherAndContactsApp\WeatherAndContactsApp\WeatherAndContactsApp.WinPhone8_1\WeatherAndContactsApp.WinPhone8_1.csproj;neutral

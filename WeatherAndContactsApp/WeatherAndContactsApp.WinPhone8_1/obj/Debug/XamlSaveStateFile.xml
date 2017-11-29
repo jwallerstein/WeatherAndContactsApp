@@ -1,0 +1,15 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\jessica\desktop\weathercontactsapp\weatherandcontactsapp\weatherandcontactsapp\weatherandcontactsapp.winphone8_1\obj\debug\intermediatexaml\weatherandcontactsapp.winphone8_1.exe" HashGuid="f2eb78b6-9716-ac5b-8e44-dea7f37e1350" />
+    <ReferenceAssembly PathName="c:\users\jessica\desktop\weathercontactsapp\packages\modernhttpclient.2.4.2\lib\portable-net45+winrt45+wp8+wpa81\modernhttpclient.dll" HashGuid="06558e2e-bf09-53c9-5fa3-375082b5eae2" />
+    <ReferenceAssembly PathName="c:\users\jessica\desktop\weathercontactsapp\packages\newtonsoft.json.10.0.2\lib\portable-net45+win8+wpa81+wp8\newtonsoft.json.dll" HashGuid="dc6b12dd-6e29-692e-3aab-9db010480a7e" />
+    <ReferenceAssembly PathName="c:\users\jessica\desktop\weathercontactsapp\packages\pclstorage.1.0.2\lib\portable-win8+wpa81\pclstorage.abstractions.dll" HashGuid="736550c0-daf7-fc43-5e2e-a9023a3ecf57" />
+    <ReferenceAssembly PathName="c:\users\jessica\desktop\weathercontactsapp\packages\pclstorage.1.0.2\lib\portable-win8+wpa81\pclstorage.dll" HashGuid="b3c72855-4fce-2ada-bc0f-5135882cc5d5" />
+    <ReferenceAssembly PathName="c:\users\jessica\desktop\weathercontactsapp\weatherandcontactsapp\weatherandcontactsapp\bin\debug\weatherandcontactsapp.dll" HashGuid="5a155b6d-493b-e4df-6639-9ec27896dfcb" />
+    <ReferenceAssembly PathName="c:\users\jessica\desktop\weathercontactsapp\packages\xamarin.forms.2.3.4.247\lib\wpa81\xamarin.forms.core.dll" HashGuid="ce7e3dc8-18ca-8130-fa7a-5e5224c7b440" />
+    <ReferenceAssembly PathName="c:\users\jessica\desktop\weathercontactsapp\packages\xamarin.forms.2.3.4.247\lib\wpa81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="c:\users\jessica\desktop\weathercontactsapp\packages\xamarin.forms.2.3.4.247\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="a861a807-c05d-0f84-2d21-93f0c7e733ae" />
+    <ReferenceAssembly PathName="c:\users\jessica\desktop\weathercontactsapp\packages\xamarin.forms.2.3.4.247\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="4381a56f-41e7-7872-51a4-d23109c536cd" />
+    <ReferenceAssembly PathName="c:\users\jessica\desktop\weathercontactsapp\packages\xamarin.forms.2.3.4.247\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="df61c4ca-47c1-60a5-1f80-e826bb936aad" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
